@@ -27,6 +27,12 @@ public static void main(String[] args)
 	  System.out.println("insertion sorted list:"+insertionSort(list));
   i++;
   }
+  
+  int[][] matrix = new int[2][3];
+  int matrix1[][] = new int [3][4];
+  int matrix2[][] = new int [4][];
+  int matrix3[][] = new int [6][];
+  
  
 }
 public static ArrayList<Integer> bubbleSort(ArrayList<Integer>list)
